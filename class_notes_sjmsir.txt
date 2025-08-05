@@ -1,0 +1,6 @@
+(05/08/2025): Things to do:
+
+1. Server is handeling multiple client (concurent server).
+2. Client and server will be different machine.
+3. What are the different types of server, and their implementation by different naming convention.
+4. Solving SJM Sir's assignment and its documentation. (Date of assignment, assignment statement, assignment date, server side code, client side code, output of server and client side code )
